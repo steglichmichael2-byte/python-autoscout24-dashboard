@@ -8,6 +8,10 @@ Das Projekt ist ein interaktives Dashboard zur Analyse von Gebrauchtwagendaten.
 
 Mit verschiedenen Filtern können Fahrzeugdaten nach Marke, Kraftstoffart und Baujahr untersucht werden. Die Kennzahlen, Diagramme und die Fahrzeugtabelle reagieren dynamisch auf die ausgewählten Filter.
 
+## Hinweis zum Datensatz
+
+Der für die Analyse verwendete Fahrzeugdatensatz ist nicht Bestandteil dieses Repositorys. Das Repository dient der Dokumentation des Projekts und enthält den Python-Quellcode sowie Screenshots des entwickelten Dashboards.
+
 ## Projektziel
 
 Ziel des Projekts ist es, Gebrauchtwagendaten übersichtlich aufzubereiten und wichtige Zusammenhänge zwischen Fahrzeugpreis, Kilometerstand, Marke, Baujahr und weiteren Fahrzeugmerkmalen sichtbar zu machen.
